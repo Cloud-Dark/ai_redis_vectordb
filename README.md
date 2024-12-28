@@ -1,4 +1,5 @@
 # Redis Embedding Similarity Example
+![image](https://github.com/user-attachments/assets/d5654ddc-774a-4ebb-86ba-48dc79a9389e)
 
 This repository demonstrates how to work with **Redis** for storing and retrieving vector embeddings and how to compute similarity scores using embeddings generated from **Ollama's embedding API**.
 
